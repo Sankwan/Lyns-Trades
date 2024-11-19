@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+A simple Forex Trading Site for LynsTrades
 
-Template Name: HeroBiz
-Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+
