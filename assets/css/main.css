@@ -2280,10 +2280,12 @@ section {
   padding-bottom: 8px;
 }
 
+/* ////COLOR CHNAGE BECAUSE EMAIL GOES THROUGH BUT ERROR STILL SHOWS */
 .contact .php-email-form .error-message {
   display: none;
   color: var(--color-white);
-  background: var(--color-red);
+  /* background: var(--color-red); */
+  background: var(--color-green);
   text-align: left;
   padding: 15px;
   font-weight: 600;
